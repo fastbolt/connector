@@ -1,15 +1,6 @@
 <?php
-/**
- * FBonline
- *
- * @copyright 2014-2017 Fastbolt Schraubengroßhandels GmbH (http://www.fastbolt.com)
- * @license   commercial
- * @link      https://fbonline.fastbolt.com
- * @package App\System\Connectors
- */
 
-
-namespace Connector;
+namespace Fastbolt\Connector;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
