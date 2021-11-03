@@ -8,7 +8,7 @@
     }
   },
   "require": {
-    "php": "7.2.*",
+    "php": ">=7.4",
     "guzzlehttp/guzzle": "^6.5",
     "symfony/framework-bundle": "^4.0"
   },
